@@ -7,7 +7,7 @@ Lower ratings, even if positive, dilute the average score and reduce how often t
 
 This leads to the weird situation that a well-intentioned and fair 4-star rating (after all who is perfect?), does actually hurt.
 
-# alternative.to.net
+# alternativeto.net
 
 1. Go to [webpage](https://alternativeto.net/software/super-productivity/about/)
 2. Scroll down to "Comments and Reviews"
